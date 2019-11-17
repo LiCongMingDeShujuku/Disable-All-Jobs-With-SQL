@@ -1,7 +1,7 @@
 ![CLEVER DATA GIT REPO](https://raw.githubusercontent.com/LiCongMingDeShujuku/git-resources/master/0-clever-data-github.png "李聪明的数据库")
 
 # 禁用SQL Server中的所有作业
-#### Delete All Jobs With SQL
+#### Disable All Jobs With SQL
 **发布-日期: 2014年04月14日 (评论)**
 
 ## Contents
